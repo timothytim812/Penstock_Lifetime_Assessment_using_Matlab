@@ -1,4 +1,4 @@
-This code  is a comprehensive analysis tool for assessing the integrity of steel penstocks. 
+Here's a detailed guide on the application of this comprehensive analysis code for assessing the integrity of steel penstocks. 
 
 The code includes defining material properties for two types of steel, calculating stresses due to static and transient pressures, and determining wall thicknesses. 
 The code assesses fracture risk by calculating stress intensity factors, limit load ratios, and geometric calibration factors. 
